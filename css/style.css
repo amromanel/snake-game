@@ -1,0 +1,21 @@
+body {
+    background: #433d52;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: greenyellow;
+    font-family: Helvetica;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+}
